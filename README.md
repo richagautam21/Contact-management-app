@@ -32,10 +32,12 @@ This is a contact management app with charts and maps, built using React TypeScr
 
 ## Deployment
 I've used Vercel for deployement.Click on the below link to get preview.
-https://contact-management-app-teal.vercel.app/
+https://contact-management-app-ivory.vercel.app/
+
 ## Installation
 1.Clone the repository: git clone https://github.com/your-username/your-repo-name.git
 2.Install dependencies: yarn install or npm install
+
 ## Running the App
 1.Start the development server: yarn start or npm start
 2.Open your browser and go to http://localhost:3000
